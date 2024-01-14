@@ -1,1 +1,1 @@
-This is all labs solved from Computer Vision and Deep Learning Course from UBB: Computer Science (2024). Solved labs are in the /Solutions folder.
+This repository serves as a comprehensive collection of labs for the Computer Vision And Deep Learning Course conducted at the Computer Science Faculty of Babes-Bolyai University. Basically all the labs solutions from the year 2024 (in /Solutions folder).
